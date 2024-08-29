@@ -47,12 +47,10 @@ export function Hero() {
           </div>
         </div>
         <div className="w-full flex flex-col lg:flex-row gap-6 pt-10 items-center lg:justify-start">
-          <button className="max-w-[170px] bg-white text-black rounded-xl text-[25px] p-2  font-semibold transition delay-150 ease-in-out  hover:scale-105 hover:shadow-2xl outline hover:bg-black hover:text-white">
+          <a   href="/CVRoberto.pdf" download="Curriculo_Roberto_Goncalves.pdf" className="max-w-[170px] bg-white text-black rounded-xl text-[25px] p-2  font-semibold transition delay-150 ease-in-out  hover:scale-105 hover:shadow-2xl outline hover:bg-black hover:text-white">
             Baixar CV
-          </button>
-          <button className="max-w-[170px] bg-white text-black  rounded-xl text-[25px] p-2  font-semibold transition delay-150 ease-in-out outline hover:scale-105 hover:shadow-2xl hover:bg-black hover:text-white">
-            Saiba mais
-          </button>
+          </a>
+          
         </div>
       </div>
     </section>
