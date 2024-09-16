@@ -6,7 +6,7 @@ export const projects = [
     gitHub: "https://github.com/robertoantony32/primeiro-projeto-react",
     description:
       "Projeto feito para fins de estudos a partir de uma video aula ilustrativa sobre utilização de react.js para desenvolvimento de interfaces funcionais e responsivas.",
-    tags: ["React.js", "Javascript", "HTML&CSS"]
+    tags: ["React.js", "Javascript", "html&css"]
   },
   {
     name: "Jsbit Store",
@@ -15,7 +15,7 @@ export const projects = [
     gitHub: "#",
     description:
       "Landing page responsiva voltada para à aprensentação de uma empresa focada no desenvolvimento de interfaces web, bots de discord, e desenvolvimento de jogos.",
-    tags: ["React.js", "Javascript", "Next.js", "Tailwind", "HTML&CSS"]
+    tags: ["React.js", "Javascript", "Next.js", "Tailwind", "html&css"]
   },
   {
     name: "Tech plus",
@@ -24,6 +24,6 @@ export const projects = [
     gitHub: "https://github.com/robertoantony32/Tech-Plus",
     description:
       "Landing page desenvolvida durante o processo de formação de HTML/CSS no ALURA.",
-    tags: ["HTML&CSS"]
+    tags: ["html&css"]
   },
 ];

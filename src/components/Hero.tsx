@@ -29,7 +29,7 @@ export function Hero() {
         <h3 className="mb-4 font-medium leading-relaxed">
           Olá! Me chamo{" "}
           <em className="underline">Roberto Gonçalves</em>, sou
-          desenvolvedor front-end a 4 anos engajado com estudos envolvendo programação. Vamos conversar?
+          desenvolvedor front-end e estou à 4 anos engajado nos estudos em programação. Vamos conversar?
         </h3>
         <div className=" flex flex-col gap-2 pt-2 mb-4">
           <h3 className="font-bold text-xl">Tecnologias</h3>
