@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     name: "Tech plus",
-    href: "https://tech-plus-yvsl.vercel.app",
+    href: "https://tech-plus-one.vercel.app",
     imgURL: "images/projects/techPlus.png",
     gitHub: "https://github.com/robertoantony32/Tech-Plus",
     description:
